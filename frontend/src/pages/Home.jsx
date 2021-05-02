@@ -5,8 +5,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import logo from '../mblogo.png';
 
-// COMPONENTS
-import { Navbar } from '../components/Navbar'; 
 
 const useStyles = makeStyles((theme) => ({
     button: {
